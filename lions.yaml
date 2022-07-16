@@ -1,7 +1,6 @@
 tean: tigers
 
-manager: main
-manager: conf1
+manager: conf3
 
 member:
  - Linda
